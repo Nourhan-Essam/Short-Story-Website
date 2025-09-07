@@ -1,0 +1,11 @@
+h3{
+    text-align:left;
+    color:dodgerblue;
+}
+p{
+    font-family: 'Lucida Sans';
+    color: #20B2AA;
+    border: 2px solid #1E90FF;
+    padding: 5px;
+    border-radius: 10px;
+}

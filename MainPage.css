@@ -1,0 +1,35 @@
+body{
+    font-family: fantasy;
+    background: #E0FFFF;
+    display: flex;
+    margin: 0;
+    height: 100vh;
+}
+.main-page{
+    width:20%; 
+    border-right: 1px solid #ccc; 
+    margin-left: 10px;
+    background: #48D1CC;
+    line-height: 1.6;
+}
+.content{
+    width:70%; 
+    border: none; 
+    margin-left:20px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+   
+}
+#unique{
+    color: #20B2AA;
+    text-decoration: underline;
+   
+}
+#section{
+     color:#87CEFA;
+    border-radius: 10px;
+    border: 2px solid #1E90FF;
+    padding: 2px;
+}
